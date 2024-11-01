@@ -25,3 +25,9 @@ footer p{
     margin-top: 0,5rem;
     font-family: Bai Jamjuree;
 }
+#container {
+    display:flex ;
+}
+.cartao {
+    margin: 1rem 1rem;
+}
